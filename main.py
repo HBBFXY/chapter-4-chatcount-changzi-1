@@ -5,7 +5,7 @@ for char in s:
          alpha += 1
     elif char.isdigit():
          digit += 1
-    elif char =='':
+    elif char ==' ':
         space += 1
     else:
         other += 1
