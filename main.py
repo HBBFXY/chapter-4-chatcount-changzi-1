@@ -6,9 +6,9 @@ for char in s:
     elif char.isdigit():
          digit += 1
     elif char ==' ':
-        space += 1
+         space += 1
     else:
-        other += 1
+         other += 1
 print("英文字符:",alpha)
 print("数字:",digit)
 print("空格:",space)
